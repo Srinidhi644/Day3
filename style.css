@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+section {
+    color: white;
+    text-align: center;
+    font-size: 1cm;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+h1 {
+    color: aquamarine;
+    font-size: 10vh;
+}
+ul li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: inline;
+}
+a {
+    display: inline;
+    padding-left: 20vh;
+    padding-right: 20vh;
+    text-decoration: none;
+    font-size: 2cm;
+}
+nav {
+    background-color: white;
+}
